@@ -223,7 +223,7 @@ LLM Systems              ██████████████████�
 AI Developer Tools       ███████████████████░░░  85%
 Multi-Agent Systems      █████████████████░░░░░  80%
 Distributed Systems      ████████████████░░░░░░  75%
-AI Infrastructure       ███████████████░░░░░░░  70%
+AI Infrastructure        ███████████████░░░░░░░  70%
 ```
 
 ---
