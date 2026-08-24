@@ -23,20 +23,20 @@
 ## `> SYSTEM.IDENTITY`
 
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   PRATHAM VERMA                                                     │
-│                                                                     │
-│   ROLE        →  AI Engineer / Software Engineer                    │
-│   FOCUS       →  Agentic AI · LLM Systems · Developer Tools         │
-│   BUILDING    →  Intelligent Software Engineering Systems           │
-│                                                                     │
-│   THINK       →  Systems                                            │
-│   BUILD       →  Software                                           │
-│   AUGMENT     →  Intelligence                                       │
-│   SHIP        →  Production                                         │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+                          ┌─────────────────────────────────────────────────────────────────────┐
+                          │                                                                     │
+                          │   PRATHAM VERMA                                                     │
+                          │                                                                     │
+                          │   ROLE        →  AI Engineer / Software Engineer                    │
+                          │   FOCUS       →  Agentic AI · LLM Systems · Developer Tools         │
+                          │   BUILDING    →  Intelligent Software Engineering Systems           │
+                          │                                                                     │
+                          │   THINK       →  Systems                                            │
+                          │   BUILD       →  Software                                           │
+                          │   AUGMENT     →  Intelligence                                       │
+                          │   SHIP        →  Production                                         │
+                          │                                                                     │
+                          └─────────────────────────────────────────────────────────────────────┘
 ```
 
 > I build software where AI doesn't just generate answers — it **reasons, uses tools, executes tasks, and improves engineering workflows.**
@@ -46,27 +46,27 @@
 ## `01 // CURRENT MISSION`
 
 ```text
-                    HUMAN INTENT
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │  AI AGENT     │
-                 │               │
-                 │ REASON        │
-                 │ PLAN          │
-                 │ EXECUTE       │
-                 │ VERIFY        │
-                 └───────┬───────┘
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-      ┌────────┐     ┌────────┐     ┌────────┐
-      │ TOOLS  │     │ CONTEXT│     │ AGENTS │
-      └────────┘     └────────┘     └────────┘
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-                  SOFTWARE OUTCOME
+                                                    HUMAN INTENT
+                                                         │
+                                                         ▼
+                                                 ┌───────────────┐
+                                                 │  AI AGENT     │
+                                                 │               │
+                                                 │ REASON        │
+                                                 │ PLAN          │
+                                                 │ EXECUTE       │
+                                                 │ VERIFY        │
+                                                 └───────┬───────┘
+                                                         │
+                                          ┌──────────────┼──────────────┐
+                                          ▼              ▼              ▼
+                                      ┌────────┐     ┌────────┐     ┌────────┐
+                                      │ TOOLS  │     │ CONTEXT│     │ AGENTS │
+                                      └────────┘     └────────┘     └────────┘
+                                          │              │              │
+                                          └──────────────┼──────────────┘
+                                                         ▼
+                                                  SOFTWARE OUTCOME
 ```
 
 I'm particularly interested in building the next generation of **AI-native developer experiences**.
@@ -114,23 +114,23 @@ AI_ENGINEERING:
 ### Agent Architecture
 
 ```text
-                         ┌───────────────┐
-                         │  MAIN AGENT   │
-                         │               │
-                         │   REASON      │
-                         │   ORCHESTRATE │
-                         │   COMMUNICATE │
-                         └───────┬───────┘
-                                 │
-                ┌────────────────┼────────────────┐
-                │                │                │
-                ▼                ▼                ▼
-        ┌─────────────┐  ┌─────────────┐  ┌─────────────┐
-        │ TASK AGENT  │  │   TERMINAL  │  │ DEBUG AGENT │
-        │             │  │    AGENT    │  │             │
-        │ PLAN        │  │ EXECUTE     │  │ INVESTIGATE │
-        │ TRACK       │  │ SEARCH      │  │ ANALYZE     │
-        └─────────────┘  └─────────────┘  └─────────────┘
+                                                 ┌───────────────┐
+                                                 │  MAIN AGENT   │
+                                                 │               │
+                                                 │   REASON      │
+                                                 │   ORCHESTRATE │
+                                                 │   COMMUNICATE │
+                                                 └───────┬───────┘
+                                                         │
+                                        ┌────────────────┼────────────────┐
+                                        │                │                │
+                                        ▼                ▼                ▼
+                                ┌─────────────┐  ┌─────────────┐  ┌─────────────┐
+                                │ TASK AGENT  │  │   TERMINAL  │  │ DEBUG AGENT │
+                                │             │  │    AGENT    │  │             │
+                                │ PLAN        │  │ EXECUTE     │  │ INVESTIGATE │
+                                │ TRACK       │  │ SEARCH      │  │ ANALYZE     │
+                                └─────────────┘  └─────────────┘  └─────────────┘
 ```
 
 **Goal:** focused context + specialized agents + efficient models + reliable execution.
@@ -172,24 +172,24 @@ AI_ENGINEERING:
 ## `04 // WHAT I LIKE BUILDING`
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  ◉ AI AGENTS                                                 │
-│    Systems that reason, plan, execute and verify.            │
-│                                                              │
-│  ◉ DEVELOPER TOOLS                                           │
-│    AI systems that make engineers dramatically faster.       │
-│                                                              │
-│  ◉ BACKEND SYSTEMS                                           │
-│    Reliable APIs, data layers and scalable services.         │
-│                                                              │
-│  ◉ SYSTEM DESIGN                                             │
-│    Simple architectures for complex engineering problems.    │
-│                                                              │
-│  ◉ SECURITY                                                  │
-│    Security boundaries designed into the architecture.       │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+                            ╭──────────────────────────────────────────────────────────────╮
+                            │                                                              │
+                            │  ◉ AI AGENTS                                                 │
+                            │    Systems that reason, plan, execute and verify.            │
+                            │                                                              │
+                            │  ◉ DEVELOPER TOOLS                                           │
+                            │    AI systems that make engineers dramatically faster.       │
+                            │                                                              │
+                            │  ◉ BACKEND SYSTEMS                                           │
+                            │    Reliable APIs, data layers and scalable services.         │
+                            │                                                              │
+                            │  ◉ SYSTEM DESIGN                                             │
+                            │    Simple architectures for complex engineering problems.    │
+                            │                                                              │
+                            │  ◉ SECURITY                                                  │
+                            │    Security boundaries designed into the architecture.       │
+                            │                                                              │
+                            ╰──────────────────────────────────────────────────────────────╯
 ```
 
 ---
