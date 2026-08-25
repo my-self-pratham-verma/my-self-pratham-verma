@@ -23,20 +23,20 @@
 ## `> SYSTEM.IDENTITY`
 
 ```text
-                          ┌─────────────────────────────────────────────────────────────────────┐
-                          │                                                                     │
-                          │   PRATHAM VERMA                                                     │
-                          │                                                                     │
-                          │   ROLE        →  AI Engineer / Software Engineer                    │
-                          │   FOCUS       →  Agentic AI · LLM Systems · Developer Tools         │
-                          │   BUILDING    →  Intelligent Software Engineering Systems           │
-                          │                                                                     │
-                          │   THINK       →  Systems                                            │
-                          │   BUILD       →  Software                                           │
-                          │   AUGMENT     →  Intelligence                                       │
-                          │   SHIP        →  Production                                         │
-                          │                                                                     │
-                          └─────────────────────────────────────────────────────────────────────┘
+                          ┌───────────────────────────────────────────────────────────────────┐
+                          │                                                                   │
+                          │   PRATHAM VERMA                                                   │
+                          │                                                                   │
+                          │   ROLE        →  AI Engineer / Software Engineer                  │
+                          │   FOCUS       →  Agentic AI · LLM Systems · Developer Tools       │
+                          │   BUILDING    →  Intelligent Software Engineering Systems         │
+                          │                                                                   │
+                          │   THINK       →  Systems                                          │
+                          │   BUILD       →  Software                                         │
+                          │   AUGMENT     →  Intelligence                                     │
+                          │   SHIP        →  Production                                       │
+                          │                                                                   │
+                          └───────────────────────────────────────────────────────────────────┘
 ```
 
 > I build software where AI doesn't just generate answers — it **reasons, uses tools, executes tasks, and improves engineering workflows.**
